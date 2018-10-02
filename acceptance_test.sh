@@ -1,0 +1,1 @@
+test $(curl localhost:8581/add/1/2) -eq 3
